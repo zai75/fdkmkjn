@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'holy-flower-96fa.saraizkddvh.workers.dev': 1,
       }
     },
     
@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'flat-hill-722a.saraizkddvh.workers.dev': 1,
       }
     },
     
